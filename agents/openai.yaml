@@ -1,0 +1,7 @@
+interface:
+  display_name: "Literature Review Extractor"
+  short_description: "Extract economics paper evidence."
+  default_prompt: "Use $literature-review-extractor to extract structured literature-review evidence, prioritising regression tables and preserving identification details."
+
+policy:
+  allow_implicit_invocation: true

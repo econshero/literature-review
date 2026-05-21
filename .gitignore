@@ -1,0 +1,17 @@
+# Generated literature review outputs
+lit-review.xlsx
+*.xlsx
+*.csv
+*.json
+
+# Zotero and personal research files
+*.sqlite
+*.sqlite-journal
+*.pdf
+storage/
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
